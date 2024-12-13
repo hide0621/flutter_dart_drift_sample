@@ -2,6 +2,12 @@
 
 flutter dart drift package sample
 
+### 参考
+
+[getting started](https://drift.simonbinder.eu/setup/)
+
+[FlutterでDriftを使用してみた～初期構築編～](https://qiita.com/team7_403_poppin/items/b6eb8a15ef716834f2e5)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
